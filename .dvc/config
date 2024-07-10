@@ -1,0 +1,4 @@
+[core]
+    remote = imdb-dvc
+['remote "imdb-dvc"']
+    url = gdrive://17hhPKStOG_zSyJNBxicwy85xDh3GAk3C
